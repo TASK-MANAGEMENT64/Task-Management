@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  height: 91vh;
+}
+
+.content {
+  flex: 1;
+  overflow: auto;
+}
+
+.sidenav {
+  width: 200px;
+  text-align: center;
+}
