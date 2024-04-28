@@ -1,0 +1,37 @@
+<div style="width: 300px">
+  <h2 style="text-align: center">Choose a Member</h2>
+  <mat-list>
+    <div style="display: flex; align-items: center;">
+      <mat-list-item>
+        <div style="display: flex; justify-content: space-between; width: 100%;">
+          <p style="margin: 0;">Marcelo</p>
+          <button mat-button (click)="openChooseMemberDialog()">Add User</button>
+        </div>
+      </mat-list-item>
+    </div>
+    <mat-divider></mat-divider>
+    <div style="display: flex; align-items: center;">
+      <mat-list-item>
+        <div style="display: flex; justify-content: space-between; width: 100%;">
+          <p style="margin: 0;">Lorenzo</p>
+          <button mat-button (click)="openChooseMemberDialog()">Add User</button>
+        </div>
+      </mat-list-item>
+    </div>
+    <mat-divider></mat-divider>
+    <div style="display: flex; align-items: center;">
+      <mat-list-item>
+        <div style="display: flex; justify-content: space-between; width: 100%;">
+          <p style="margin: 0;">Renzo</p>
+          <button mat-button (click)="openChooseMemberDialog()">Add User</button>
+        </div>
+      </mat-list-item>
+    </div>
+    <mat-divider></mat-divider>
+    <br>
+    <div style="text-align: center">
+      <button mat-flat-button color="primary" [mat-dialog-close]="">Return</button>
+    </div>
+  </mat-list>
+</div>
+
