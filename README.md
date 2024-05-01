@@ -500,7 +500,7 @@ Preguntas de las entrevistas
 1. ### <a name="_toc165445766"></a>Registro de Entrevistas
 En esta sección se mostrarán las evidencias de las entrevistas de las entrevistas desarrolladas. Cada entrevista presenta una descripción breve de la persona encuestada, al igual que una síntesis del video de esta.
 
-Enlace del video de las entrevistas: 
+Enlace del video de las entrevistas: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EXbVI-L-53NPl81CMhUPmNUBhmHFQgrvMeC_86EJw6ZRtA?e=9VDkut>
 
 **Entrevista N°1: Cynthia Vargas**
 
@@ -553,8 +553,8 @@ Como estudiante universitaria menciona que tiende a veces olvidar sus deberes po
 
 - Sexo: Masculino
 - Edad: 16
-- Momento en que inica la entrevista: 
-- Duración: 
+- Momento en que inica la entrevista: 0:20
+- Duración: 4:20
 
 Franccesco Nevada es un estudiante que está cursando el 5to de secundaria. Nos cuenta que, en general, siempre le ha ido bien en sus estudios y que no suele tener problemas en su organización. Sin embargo, en semanas donde pueden dejar varias actividades o tareas, puede llegar a tener una experiencia abrumadora.
 
@@ -1351,6 +1351,8 @@ Enlace para visualizar el trello: <https://trello.com/invite/b/NSI508KA/ATTI572f
 ####
 1. #### *Testing Suite Evidence for Sprint Review*
 ####
+Enlace del repositorio de Github donde se encuentran los acceptance tests:  <https://github.com/TASK-MANAGEMENT64/Task-Management/blob/release/Acceptance%20Tests/ATWorkline.feature>
+
 `  `**Proyecto:** Desarrollo de la Landing Page Task Management
 
 `  `**Sprint: 1**
@@ -1369,8 +1371,6 @@ Herramientas de Testing:
 
 -Dispositivos móviles simuladores o físicos
 
-Enlace del repositorio de Github donde se encuentran los acceptance tests: <https://github.com/TASK-MANAGEMENT64/Task-Management/tree/release>
-
 1. #### *Execution Evidence for Sprint Review*
 ####
 ####
@@ -1379,6 +1379,7 @@ Luego de realizar el sprint este seria el resultado luego de completar el sprit 
 
 1. #### *Services Documentation Evidence for Sprint Review*
 ####
+En esta primera entrega se desarrolló solo una landing page, por lo que no se realizó ningún uso de ningún web service
 
 1. #### *Software Deployment Evidence for Sprint Review*
 
@@ -1401,7 +1402,103 @@ Esta sección se incluyen los team collaboration insights. Se incluirán imágen
 # <a name="_toc165445817"></a>Anexos
 Repositorio de GitHub: <https://github.com/TASK-MANAGEMENT64/Task-Management/tree/master> 
 
+1. ### Sprint 2
+   1. #### *Sprint Planning 2*
 
+|Sprint#|Sprint 2|
+| - | - |
+| Sprint Planning Background | |
+| Date | 1 de mayo del 2024 |
+| Time | 10:00 (GMT-5) |
+| Location | Discord y Whatsapp |
+| Prepared By | Task Management |
+| Attendes (to planning meeting) | Todos los miembros del grupo Task Management |
+| Sprint 2 - Review Summary | Según las indicaciones que nos dió el profesor, hemos mejorado nuestro trabajo. Hemos arreglado varios puntos del documento, como las historias de usuario y los problem statements |
+| Sprint 2 - Retrospective Summary | En este sprint se planea desarrollar la aplicación web e implementar en ella los user stories incluídos en el sprint backlog 2|
+| Sprint Goal & User Stories | |
+| Sprint 2 Velocity | 10 |
+| Sum of Story Points | 34 |
+
+1. #### *Sprint Backlog 2*
+Enlace para visualizar el trello: <https://trello.com/invite/b/sHrT03cJ/ATTI274310f4fd5ed83dd8ab06b5e3957c3eD9224919/os-sprint-backlog-2>
+
+
+
+<img src="assets/SB2.png">
+
+
+|Sprint#|Sprint 1||||||
+| - | - | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task||||||
+|ID|Title|Id|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
+|EP1 / US01|Registro usuario|T01|Como usuario de cualquiera de los segmentos sin una cuenta en el sistema, quiero poder registrarme en la aplicación para acceder a todas sus funcionalidades |4H|<p>Ernesto </p><p></p>|Done|
+|EP1 / US02|Acceso de usuario|T02|Como usuario de cualquiera de los segmentos con una cuenta existente, quiero poder iniciar sesión en la aplicación utilizando mi dirección de correo electrónico y contraseña para acceder a mi cuenta y utilizar todas las funcionalidades de la aplicación|4H|Ernesto|To-Do|
+|EP2 / US01|Eliminación de cuenta|T03|Como usuario de cualquiera de los segmentos, quiero poder eliminar mi cuenta para asegurarme que ningún tipo de información personal se quede en la aplicación cuando desee dejar de utilizarla|6H|Ernesto|To-Do|
+|EP3 / US01|Creación de un Proyecto Nuevo|T04|<p>Como jefe de equipo, quiero poder crear un nuevo proyecto en la aplicación para administrar y gestionar mis labores</p><p></p>|6H|Marcelo|Done|
+|EP3 / US02|Asignación de un Miembro a un Proyecto|T05|Como usuario del segmento objetivo de equipos de teletrabajo, quiero poder asignar miembros a un proyecto para trabajar colaborativamente en el proyecto|4H|Marcelo|Done|
+|EP4 / US01|Creación de tarea laboral|T06|Como usuario del segmento objetivo de equipos de teletrabajo, quiero poder crear tareas para asignar a los miembros de equipo el trabajo que debe completar cada uno|4H|Lorenzo|Done|
+|EP8 / US01|Creación de tarea estudiantil|T07|Como usuario del segmento objetivo de estudiantes, quiero poder enviar y recibir mensajes internos con otros miembros del equipo para facilitar la comunicación y la colaboración|4H|Lorenzo|Done|
+|EP6 / US01|Visualización de tareas en el calendario|T08|Como usuario del segmento objetivo de estudiantes, quiero poder visualizar las tareas pendientes en el calendario para saber cuáles son las tareas más próximas que debo completar|8H|Renzo|Done|
+|EP6 / US02|Creación de eventos de calendario|T09|<p>Como usuario de cualquier segmento objetivo, quiero poder crear eventos en el calendario para programar reuniones y otros eventos relevantes para seguir correctamente el proyecto</p><p></p>|8H|Renzo|Done|
+|EP9 / US01|Enviar Solicitudes de Amistad|T10|Como usuario de cualquier segmento objetivo, quiero poder enviar solicitudes de amistad, para así poder volverme amigo de otros usuarios de la aplicación|6H|Lorenzo|In Progress|
+
+####
+
+1. #### *Development Evidence for Sprint Review*
+####
+
+<img src="assets/Sprint1Evidence1.png">
+
+####
+1. #### *Testing Suite Evidence for Sprint Review*
+####
+Enlace del repositorio de Github donde se encuentran los acceptance tests:  <https://github.com/TASK-MANAGEMENT64/Task-Management/blob/release/Acceptance%20Tests/ATWorkline.feature>
+
+`  `**Proyecto:** Desarrollo de la Web Application Task Management
+
+`  `**Sprint: 2**
+
+` `**Objetivo del Sprint:** Crear una web Application funcional y atractiva llamado Task Management 
+
+**Equipo:**
+
+-Tester (Usuarios)
+
+Desarrollador front-end (Todos los integrantes del equipo)
+
+Herramientas de Testing:
+
+-Navegadores web (Chrome, Firefox, etc.)
+
+-Dispositivos móviles simuladores o físicos
+
+1. #### *Execution Evidence for Sprint Review*
+####
+####
+En esta entrega, no se realizó ningún deployment, por lo que no se muestra ninguna evidencia
+
+1. #### *Services Documentation Evidence for Sprint Review*
+####
+En esta segunda entrega se desarrolló solo el frontend de la aplicación, por lo que no se realizó ningún uso de ningún web service
+
+1. #### *Software Deployment Evidence for Sprint Review*
+
+|Repository|Branch|Commit<br>Message|Commit<br>MessageBody|Committed<br>on (Date)|Committed<br>delegate|
+| - | - | - | - | - | - |
+|Task-Management|Develop|Feat|Added project/calendar/login/register components|1 de mayo de 2024|Lorenzo|
+|Task-Management|Feature|Feat|Calendario Agregado|1 de mayo de 2024|Renzo|
+|Task-Management|Release|Feat|Added Acceptance Test|1 de mayo de 2024|Marcelo|
+|Task-Management|Release|Feat|Added Images for Markdown|1 de mayo de 2024|Marcelo|
+
+
+1. #### *Team Collaboration Insights*
+Esta sección se incluyen los team collaboration insights. Se incluirán imágenes de cómo se distribuyó el desarrollo del trabajo en esta entrega
+
+<img src="assets/Insights2.png">
+
+
+# <a name="_toc165445817"></a>Anexos
+Repositorio de GitHub: <https://github.com/TASK-MANAGEMENT64/Task-Management/tree/master> 
 
 # <a name="_toc165445818"></a>Bibliografía
 Alvarez, A. (2020). 5W2H: qué significa, para qué sirve, cómo aplicarla y algunos ejemplos. <https://www.leanconstructionmexico.com.mx/post/5w2h-qué-significa-para-qué-sirve-cómo-aplicarla-y-algunos-ejemplos> 
