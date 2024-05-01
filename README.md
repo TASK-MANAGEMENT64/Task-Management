@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="/assets/logoupc.png" alt="logo-image" width="100" height="100">
+<img src="/assets/logoupc.png" alt="logo-image" width="300" height="300">
 
 |<p>__FINAL REPORT__</p><p>Task Management</p><p>Team Members</p><p>Casaverde De La Cruz, Ernesto David	U20221b657</p><p>Mendoza Solis, Javier Kenyi	               U201824550</p><p>Navarro Robles, Lorenzo Sebastian	U201713141</p><p>Neyra Santa Cruz, Marcelo Sebastian	U202217241</p><p>Silva Morales, Renzo Cesar	               U20221c362</p><p></p><p>Docente: Alberto Wilmer Sanchez Seña</p><p></p><p></p><p></p><p></p><p></p>|
 | - |
