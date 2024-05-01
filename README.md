@@ -186,15 +186,15 @@ En está sección se mostrarán a todos los integrantes del equipo, junto a una 
 
 |01|Casaverde De La Cruz, Ernesto David|
 | :-: | :-: |
-||Mi nombre es Ernesto David Casaverde De La Cruz. Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++, HTML, CSS, JavaScript, SQL, MongoDB, Python. En mis tiempos libres practico fútbol, también me gusta leer libros, ver películas y viajar. Me considero responsable, respetuosa y amable, con estas habilidades comprometo a terminar el proyecto de la mejor manera para aportar a la sociedad.|
+|<img src="assets/Ernesto.png">|Mi nombre es Ernesto David Casaverde De La Cruz. Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++, HTML, CSS, JavaScript, SQL, MongoDB, Python. En mis tiempos libres practico fútbol, también me gusta leer libros, ver películas y viajar. Me considero responsable, respetuosa y amable, con estas habilidades comprometo a terminar el proyecto de la mejor manera para aportar a la sociedad.|
 |02|Mendoza Solis, Javier Kenyi|
-||<p>Mi nombre es Javier Kenyi Mendoza Solis. Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++, Python y HTML. En mis ratos libres, me sumerjo en dos de mis grandes pasiones: los videojuegos y la música. Me considero como una persona con una fascinación por el mundo de la tecnología y la creatividad. Mi viaje en la programación y el desarrollo de software me ha llevado a explorar cómo las líneas de código pueden dar vida a ideas innovadoras y soluciones prácticas. Disfruto colaborando con otros para enfrentar desafíos y encontrar soluciones innovadoras</p><p></p>|
+|<img src="assets/Javier.png">|<p>Mi nombre es Javier Kenyi Mendoza Solis. Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++, Python y HTML. En mis ratos libres, me sumerjo en dos de mis grandes pasiones: los videojuegos y la música. Me considero como una persona con una fascinación por el mundo de la tecnología y la creatividad. Mi viaje en la programación y el desarrollo de software me ha llevado a explorar cómo las líneas de código pueden dar vida a ideas innovadoras y soluciones prácticas. Disfruto colaborando con otros para enfrentar desafíos y encontrar soluciones innovadoras</p><p></p>|
 |03|Navarro Robles, Lorenzo Sebastian|
-||Mi nombre es Lorenzo Sebastian Navarro Robles. Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de TypeScript, Nest.js y Spring Boot. Me considero como una persona trabajadora y perseverante. Cuento con 6 meses de experiencia laboral dentro del área financiera implementando módulos dentro de aplicaciones web backoffices utilizando Next.js, typescript y Node.js con Express. He trabajado en equipos que implementan metodologías agiles como Kanban y Agile.|
+|<img src="assets/Lorenzo.png.jpg">|Mi nombre es Lorenzo Sebastian Navarro Robles. Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de TypeScript, Nest.js y Spring Boot. Me considero como una persona trabajadora y perseverante. Cuento con 6 meses de experiencia laboral dentro del área financiera implementando módulos dentro de aplicaciones web backoffices utilizando Next.js, typescript y Node.js con Express. He trabajado en equipos que implementan metodologías agiles como Kanban y Agile.|
 |04|Neyra Santa Cruz, Marcelo Sebastian|
-||Mi nombre es Marcelo Sebastian Neyra Santa Cruz, Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++ y HTML. Me considero como una persona perseverante, trabajadora y amable. Mi sueño/meta es convertirme en un desarrollador de videojuegos en la empresa Nintendo.|
+|<img src="assets/Marcelo.png.jpg">|Mi nombre es Marcelo Sebastian Neyra Santa Cruz, Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++ y HTML. Me considero como una persona perseverante, trabajadora y amable. Mi sueño/meta es convertirme en un desarrollador de videojuegos en la empresa Nintendo.|
 |05|Silva Morales, Renzo Cesar|
-||Mi nombre es Renzo Cesar Silva Morales Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++ y Python.  Me considero como una persona responsable, amable y entusiasta de la tecnología. En mis tiempos libres me gusta investigar sobre las novedades del mundo de la tecnología. |
+|<img src="assets/Renzo.png.jpg">|Mi nombre es Renzo Cesar Silva Morales Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++ y Python.  Me considero como una persona responsable, amable y entusiasta de la tecnología. En mis tiempos libres me gusta investigar sobre las novedades del mundo de la tecnología. |
 
 1. ## <a name="_toc165445755"></a>Solution Profile
    1. ### <a name="_toc165445756"></a>Antecedentes y Problemática
@@ -405,30 +405,20 @@ Basándonos en un análisis de mercado, hemos reconocimos a nuestros principales
 
 Es una plataforma en línea para gestionar proyectos que emplea tarjetas para organizar y priorizar tareas. Cada tarjeta representa una tarea o proyecto y se puede colocar en listas que representan etapas del proceso como "pendiente", "en proceso" o "completado". Las tarjetas admiten descripciones, archivos, comentarios y fechas límite.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="assets/Trello.png.jpg">
 
 **Miro**
 
 Se trata de un programa de colaboración en línea empleado para generar y compartir diagramas, mapas conceptuales, presentaciones, modelos de productos y otras cosas más. Conocido anteriormente como "RealtimeBoard", Miro posibilita la colaboración en tiempo real entre equipos en un entorno de trabajo digital, sin importar dónde se encuentren geográficamente.
 
+<img src="assets/Miro.png.jpg">
+
 **Basecamp**
 
 Es una herramienta en línea para la gestión de proyectos que fomenta la colaboración y la eficiencia. Permite a los equipos crear proyectos y tareas, compartir archivos, mantener conversaciones y realizar un seguimiento del avance
+
+<img src="assets/Basecamp.png">
+
 1. ### <a name="_toc165445762"></a>Análisis Competitivo
 En esta sección se desarrolló el análisis competitivo. Este tiene como objetivo identificar las ventajas y desventajas que tenemos frente a los competidores principales.
 
@@ -584,11 +574,11 @@ Utilizaremos user personas para representar de manera ficticia y detallada a nue
 **SEGMENTO OBJETIVO: EQUIPO DE TELETRABAJO**
 
 **Jefe de equipo de teletrabajo: Renzo Quispe Palomino**
-
+<img src="assets/USP1.png">
 **Miembro de equipo de Teletrabajo: Cielo Rodriguez Calderon**
-
+<img src="assets/USP2.png">
 **SEGMENTO OBJETIVO: ESTUDIANTES**
-
+<img src="assets/USP3.png">
 **Estudiante escolar o universitario: Maria Pérez de la Cruz** 
 1. ### <a name="_toc165445770"></a>User Task Matrix
 Utilizaremos el user task matrix para organizar y priorizar las tareas que los usuarios deben poder realizar dentro de nuestro servicio.
@@ -612,30 +602,26 @@ Utilizaremos el user task matrix para organizar y priorizar las tareas que los u
 La herramienta del journey mapping la utilizamos para visualizar y comprender la experiencia completa de un usuario al interactuar con nuestro servicio a lo largo del tiempo.
 
 **Renzo Quispe Palomino**
+<img src="assets/JMP1.png">
 
-
-<a name="_hlk148293936"></a>**Cielo Ramirez Calderon**
+**Cielo Ramirez Calderon**
+<img src="assets/JMP2.png">
 
 **Maria Pérez de la Cruz**
-
+<img src="assets/JMP3.png">
 
 
 1. ### <a name="_toc165445772"></a>Empathy Mapping
 El Empathy Mapping lo desarrollamos para profundizar en la comprensión de los usuarios para poder diseñar experiencias que se ajusten mejor a sus necesidades y deseos.
 
 **Renzo Quispe Palomino**
-
-
-**
+<img src="assets/EMP1.png">
 
 **Cielo Ramirez Calderon**
-
-
-
-**
+<img src="assets/EMP2.png">
 
 **Maria Pérez de la Cruz**
-
+<img src="assets/EMP3.png">
 
 
 1. ### <a name="_toc165445773"></a>As-Is Scenario Mapping
@@ -646,10 +632,13 @@ Enlace de cuadros realizados en Miro:
 <https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753> 
 
 **Renzo Quispe Palomino**
+<img src="assets/ASIS1.jpg">
 
 **Cielo Ramirez Calderon**
+<img src="assets/ASIS2.jpg">
 
 **Maria Pérez de la Cruz**
+<img src="assets/ASIS3.jpg">
 
 1. ## <a name="_toc165445774"></a>Ubiquitous Language
 En esta sección se incluirán términos comúnmente utilizados alrededor de todo el desarrollo del proyecto para eliminar ambigüedades:
@@ -689,10 +678,13 @@ Enlace de cuadros realizados en Miro:
 <https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753> 
 
 **Renzo Quispe Palomino**
+<img src="assets/TOBE1.jpg">
 
 **Cielo Ramirez Calderon**
+<img src="assets/TOBE2.jpg">
 
 **Maria Pérez de la Cruz**
+<img src="assets/TOBE3.jpg">
 
 1. ## <a name="_toc165445778"></a>User Stories
 Las Historias de Usuario se desarrollaron con el fin de explicar las funcionalidades y características del producto final.
@@ -779,7 +771,14 @@ Nota: Las historias de usuario están marcadas como “USXX”, mientras que las
 
 Impact Mapping es un método colaborativo para planificar y facilitar el desarrollo de productos o servicios. Ayuda a los equipos a enfocarse en los resultados que más importan a los usuarios y a crear un plan de acción para lograrlos.
 
+**Renzo Quispe Palomino**
+<img src="assets/IMP1.png">
 
+**Cielo Ramirez Calderon**
+<img src="assets/IMP2.png">
+
+**Maria Pérez de la Cruz**
+<img src="assets/IMP3.png">
 
 
 1. ## <a name="_toc165445780"></a>Product Backlog
@@ -788,6 +787,7 @@ El product backlog es una lista priorizada de trabajo en el mundo de la gestión
 
 Enlace para visualizar el Product Backlog realizado en Trello: <https://trello.com/b/JjmNfzaZ> 
 
+<img src="assets/ProductBacklog.png">
 
 |Orden|User Story ID|Título|Descripción|Story Points|
 | - | - | - | - | - |
@@ -849,6 +849,8 @@ Para los títulos y subtítulos, se ha elegido la tipografía Source Sans Pro Bl
 
 Los dos colores que se utilizarán son el blanco y negro. La elección del color dependerá del fondo, habiendo una relación inversa entre la tonalidad del fondo y el color de la letra. No obstante, en ocasiones especiales se utilizarán otros colores para resaltar información importante. Aquí algunos ejemplos del color de la letra:
 
+<img src="assets/ColorLetra.png">
+
 **Espaciado:**
 
 No se incluye ningún tipo de espaciado especial.
@@ -858,6 +860,8 @@ No se incluye ningún tipo de espaciado especial.
 Se escogió una escala monocromática para los fondos de la aplicación. Esta elección fue debido a que estos colores trasmiten simplicidad y organización al usuario. Cabe recalcar que estos no son todos los colores se utilizarán, ya que sería muy monótono y aburrido para el usuario ver una aplicación en escala de grises.
 
 **Colores principales:**
+
+<img src="assets/ColorPrincipal.png">
 
 **Colores secundarios:**
 
@@ -884,9 +888,13 @@ En esta sección, mostraremos algunas de las selecciones de nuestra guía de est
 
 Se definen 3 tamaños específicos que todos los botones deben utilizar
 
+<img src="assets/Botones.png">
+
 Si es que llegara a ser necesario, se pueden utilizar otros tamaños. No obstante, el tamaño del botón mediano siempre debe ser el doble que el pequeño; mientras que el grande debe ser el triple de tamaño que el pequeño. Esta diferenciación será utilizada para mostrar la relevancia del botón, siendo los botones más grandes los más importantes.
 
 También se ha definido la apariencia de los botones es estados diferentes
+
+<img src="assets/BotonesApariencia.png">
 
 **Notificaciones**
 
@@ -899,6 +907,9 @@ En la primera versión de la aplicación Task Management se han implementado 4 d
   - Cuando se recibe un mensaje de un compañero de equipo
   - Cuando se completa una tarea asignada
   - Cuando se guardan los cambios realizados
+
+  <img src="assets/NotificacionNormal.png">
+
 - **Notificación de calendario**
 
   Estas notificaciones aparecen cuando algún evento relacionado con el calendario ocurre. Entre estas situaciones, tenemos:
@@ -923,6 +934,8 @@ Por otro lado, para el segmento de estudiantes escolares y universitarios, toda 
 
 En ambos casos, el tiempo que las notificaciones de calendario permanecen en pantalla es de 5 segundos.
 
+<img src="assets/NotificacionCalendario.png">
+
 - **Notificación importante**
 
   Las notificaciones importantes aparecen cuando es indispensable que el usuario conozca su contenido. A diferencia de las notificaciones normales y de calendario, el tiempo en que aparecen en pantalla es el doble, durando 10 segundos, y tienen un sonido diferente ligeramente más fuerte que el de las otras notificaciones. En casos excepcionales, la duración de estas notificaciones puede ser indefinida hasta que algún otro evento ocurra. Entre sus usos más comunes, podemos encontrar:
@@ -933,11 +946,16 @@ En ambos casos, el tiempo que las notificaciones de calendario permanecen en pan
 - El plazo de entrega de una tarea está por terminar
 - Aviso importante acerca de un evento que no puede ser deshecho
 - Indicación de que una acción no puede ser deshecha
+
+<img src="assets/NotificacionImportante.png">
+
   - **Notificación de reconocimiento**
 
     Aparecen solo en situaciones especiales, como cuando el jefe de equipo reconoce que uno de sus trabajadores ha realizado un excelente trabajo y desea enviarle un mensaje de agradecimiento; o cuando se obtiene una meta establecida por el usuario o equipo.
 
     Estas notificaciones se mantienen en pantalla por 7 segundos.
+
+<img src="assets/NotificacionReconociemiento.png">
 
 **Buscador**
 
@@ -945,15 +963,22 @@ El buscador actualmente solo está planeado para el segmento objetivo de los mie
 
 Regresando al primer segmento objetivo, en el buscador los usuarios podrán buscar por nombre o rol a otros miembros de equipo. Si es que existe el o los miembros solicitados, aparecerán en pantalla mediante una lista. Por predeterminado, aparecerán los 4 primeros nombres que se encuentran en la lista del equipo en el que la persona está asignada. Si es que el usuario está asignado a más de un equipo, entonces se le preguntará primero en qué equipo quiere buscar. Por otro lado, si actualmente el usuario no está asignado a ningún equipo, no aparecerá ningún nombre.
 
+<img src="assets/Buscador.png">
+
 **Cabecera**
 
 La cabecera aparecerá en cada página de nuestra página web en la parte superior de la pantalla. Esta mostrará el nombre de la empresa, la sección en la que el usuario se encuentra actualmente y el logo.
 
+<img src="assets/Cabecera.png">
+
 **Etiquetas Descriptivas**
 
 Se utilizan en la parte superior izquierda de los elementos para indicar lo que la etiqueta menciona. Su uso principal es para las tareas.
+<img src="assets/Etiquetas.png">
 
 Aquí un ejemplo de su uso:
+<img src="assets/EtiquetasUso.png">
+
 
 **Íconos**
 
@@ -961,19 +986,23 @@ Nuestra aplicación es necesita ser fácilmente entendible por todo tipo de usua
 
 |Ícono|Uso|
 | - | - |
-||Indica que una tarea tiene límite de tiempo|
-||Indica que un documento puede ser descargado por el usuario|
-||Indica cuando un elemento de una lista es seleccionado|
-||Indica que el existe un teléfono de contacto|
-||Indica que existe información adicional que el usuario puede observar si desea|
-||Indica que se puede buscar algo|
-||Indica que la persona no tiene foto de perfil|
+|<img src="assets/icon-reloj.png">|Indica que una tarea tiene límite de tiempo|
+|<img src="assets/icon-descargar.png">|Indica que un documento puede ser descargado por el usuario|
+|<img src="assets/icon-check.png">|Indica cuando un elemento de una lista es seleccionado|
+|<img src="assets/icon-celular.png">|Indica que el existe un teléfono de contacto|
+|<img src="assets/icon-info.png">|Indica que existe información adicional que el usuario puede observar si desea|
+|<img src="assets/icon-lupa.png">|Indica que se puede buscar algo|
+|<img src="assets/icon-persona.png">|Indica que la persona no tiene foto de perfil|
 
 **Logo**
 
 Nuestro logo representa a nuestra empresa. Sus colores en la escala de grises indican simplicidad y elegancia. El estilo metálico del fondo indica organización y prestigio por utilizar nuestra aplicación.
 
 Se realizaron 2 estilos del logo. El primero es el logo principal, el que será utilizado dentro de la aplicación. El segundo logo es similar al primero, solo que incluye también texto para indicar el nombre de la empresa. Este segundo logo será principalmente usado en material publicitario.
+
+|Sin Nombre |Con Nombre|
+| - | - |
+| <img src="assets/logo1.png"> | <img src="assets/logo2.png">|
 
 
 1. ## <a name="_toc165445786"></a>Information Arquitecture
@@ -1004,8 +1033,11 @@ Enlace de los Wireframes desarrollados en Figma:
 
 <https://www.figma.com/file/L5xazk14NtWcTp5adMEGXx/landing-wireframes?type=design&node-id=0%3A1&mode=design&t=a7eDO3PteF4OQCkF-1>
 
-
-
+<img src="assets/LP-WF1.png">
+<img src="assets/LP-WF2.png">
+<img src="assets/LP-WF3.png">
+<img src="assets/LP-WF4.png">
+<img src="assets/LP-WF5.png">
 
 
 1. ### <a name="_toc165445794"></a>Landing Page Mock-up
@@ -1016,8 +1048,11 @@ Enlace de los Wireframes desarrollados en Figma:
 
 <https://www.figma.com/file/L5xazk14NtWcTp5adMEGXx/landing-wireframes?type=design&node-id=0%3A1&mode=design&t=a7eDO3PteF4OQCkF-1>
 
-
-
+<img src="assets/LP-MU1.png">
+<img src="assets/LP-MU2.png">
+<img src="assets/LP-MU3.png">
+<img src="assets/LP-MU4.png">
+<img src="assets/LP-MU5.png">
 
 
 1. ## <a name="_toc165445795"></a>Web Applications UX/UI Design
@@ -1027,9 +1062,14 @@ En esta seccion va todo lo relacionado al diseño de la aplicacion web como wire
 
 <https://www.figma.com/file/h97kRAmGMhvd20Z52PZrCv/Untitledtype=design&node-id=0%3A1&mode=design&t=zOC4On9dH8elcnmL-1>
 
+<img src="assets/WA-WF1.png">
+<img src="assets/WA-WF2.png">
+
 1. ### <a name="_toc165445797"></a>Web Applications Wireflow Diagrams
+
+
 1. ### <a name="_toc165445798"></a>Web Applications Mock-ups
-Sad 
+
 
 <https://www.figma.com/file/7r39chYWXl2yRBHeKq33Th/Untitled?type=design&node-id=0-1&mode=design>
 1. ### <a name="_toc165445799"></a>Web Applications User Flow Diagrams
@@ -1039,29 +1079,29 @@ Sad
 1. ## <a name="_toc165445801"></a>Domain-Driven Software
 Es una manera conceptual de ver como funciona toda arquitectura del programa a desarrollar y como interactua con cada segemento objetivo 
 1. ### <a name="_toc165445802"></a>Software Architecture Context Diagram
-
-
+<img src="assets/C4-Contexto.png">
 
 1. ### <a name="_toc165445803"></a>Software Architecture Container Diagrams
-
+<img src="assets/C4-Contendores.png">
 
 1. ### <a name="_toc165445804"></a>Software Architecture Components Diagrams
+<img src="assets/C4-Componentes.png">
 
 1. ## <a name="_toc165445805"></a>Software Object-Oriented Design
 Es la manera de diseñar toda la logica de programacion del back end con cada bounded context para que los desarrolladores vean como funciona la parte que no se ve de la aplicacion
 
 **Class Diagram**
+<img src="assets/DiagramaClases.png">
 
 
 
-
-Class Dictionary
-
+**Class Dictionary**
+<img src="assets/DiccionarioClases.png">
 
 1. ## <a name="_toc165445806"></a>Database Design
 La bases de datos son importantes ya que es donde esta todo la informacion del los usuarios para eso nesesario hacer los mas eficiente posible 
 1. ### <a name="_toc165445807"></a>Database Diagram
-
+<img src="assets/BaseDatos.jpg">
 
 # <a name="_toc165445808"></a>CAPÍTULO 5: PRODUCT IMPLEMENTATION VALIDATION & DEPLOYMENT
 
@@ -1083,7 +1123,7 @@ Repositorio de Github: <https://github.com/WX54-workflow/landing-page>
 
   Nuestro equipo ha decidido trabajar con la herramienta de control de versiones de Git para implementar GitFlow, un flujo de trabajos eficiente y sofisticado. Tomamos como base el modelo del artículo “A successful Git branching model”, diseñado en el 2010 por Vicent Driessen. Elegimos este modelo debido al gran número de detalles ofrecidos por no solo por las imágenes, sino también por la descripción. Esta es la estructura básica del modelo:
 
-
+<img src="assets/Gitflow.png">
 
 - **Master Branch**
 
@@ -1122,14 +1162,6 @@ Repositorio de Github: <https://github.com/WX54-workflow/landing-page>
   Se denota como ***hotfix*** y su comando de creación es el siguiente:
 
   Comando de creación***: gitcheckout -b hotfix master***
-
-
-
-
-
-
-
-
 
 - **Semantic Versioning**
 
@@ -1219,7 +1251,7 @@ Estos elementos y propiedades nos permiten crear una página de destino que sea 
 
 Para nuestra landing page, utilizamos imágenes de fondo y colores oscuros para resaltar algunas partes. Por ejemplo, en la parte inferior de la página, donde hay información de contacto, utilizamos un fondo oscuro con texto blanco para que sea fácil de encontrar.
 
-
+<img src="assets/FooterGitflow.png">
 
 
 1. ### <a name="_toc165445814"></a>Software Deployment Configuration
@@ -1286,6 +1318,9 @@ Si hemos seguido bien los pasos anteriores, ya podremos visualizar la nuestra p�
 
 1. #### *Development Evidence for Sprint Review*
 ####
+
+<img src="assets/Sprint1Evidence1.png">
+
 ####
 1. #### *Testing Suite Evidence for Sprint Review*
 ####
