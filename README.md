@@ -1,7 +1,13 @@
 
-|<p>FINAL REPORT</p><p>Task Management</p><p>Team Members</p><p>Casaverde De La Cruz, Ernesto David	U20221b657</p><p>Mendoza Solis, Javier Kenyi	               U201824550</p><p>Navarro Robles, Lorenzo Sebastian	U201713141</p><p>Neyra Santa Cruz, Marcelo Sebastian	U202217241</p><p>Silva Morales, Renzo Cesar	               U20221c362</p><p></p><p>Docente: Alberto Wilmer Sanchez Seña</p><p></p><p></p><p></p><p></p><p></p>|
+<div align="center">
+
+<img src="/assets/logoupc.png" alt="logo-image" width="100" height="100">
+
+|<p>__FINAL REPORT__</p><p>Task Management</p><p>Team Members</p><p>Casaverde De La Cruz, Ernesto David	U20221b657</p><p>Mendoza Solis, Javier Kenyi	               U201824550</p><p>Navarro Robles, Lorenzo Sebastian	U201713141</p><p>Neyra Santa Cruz, Marcelo Sebastian	U202217241</p><p>Silva Morales, Renzo Cesar	               U20221c362</p><p></p><p>Docente: Alberto Wilmer Sanchez Seña</p><p></p><p></p><p></p><p></p><p></p>|
 | - |
 |<p></p><p></p>|
+
+</div>
 **Universidad Peruana de Ciencias Aplicadas**
 
 **Ingeniería de Software**
@@ -1360,3 +1366,6 @@ Lopez, M. (2020). Estudios: Los principales desafíos del teletrabajo. <https://
 Pisani, A. y Tomasina, F. (2022). Pros y contras del teletrabajo en la salud física y mental de la población general trabajadora: una revisión narrativa exploratoria. *Archivos de prevención de riesgos laborales*, *25*(2), 147-161. <https://dx.doi.org/10.12961/aprl.2022.25.02.07> 
 
 Santillan, W. (2020). El teletrabajo en el COVID-19. *CienciAmérica: Revista de divulgación científica de la Universidad Tecnológica Indoamérica*, *9*(2), 65-76. <https://dialnet.unirioja.es/servlet/articulo?codigo=7746439> 
+
+
+[def]: assets/UPC_logo_transparente (1).pn
