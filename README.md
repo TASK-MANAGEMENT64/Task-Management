@@ -500,7 +500,9 @@ Preguntas de las entrevistas
 1. ### <a name="_toc165445766"></a>Registro de Entrevistas
 En esta sección se mostrarán las evidencias de las entrevistas de las entrevistas desarrolladas. Cada entrevista presenta una descripción breve de la persona encuestada, al igual que una síntesis del video de esta.
 
-**Entrevista N°1**
+Enlace del video de las entrevistas: 
+
+**Entrevista N°1: Cynthia Vargas**
 
 - Sexo: Femenino
 - Edad: 39
@@ -508,9 +510,9 @@ En esta sección se mostrarán las evidencias de las entrevistas de las entrevis
 - Momento en que inicia la entrevista: 0:02
 - Duración: 4:24
 
-Cynthia, una economista que trabaja en HMY Perú como jefe de oficina técnica de proyectos, se encarga de la administración de los equipos remotos de trabajo. Uno de los mayores problemas que se presentan es la capacidad de los empleados de aprovecharse del mal sistema para no realizar su trabajo
+Cynthia Vargas, una economista que trabaja en HMY Perú como jefe de oficina técnica de proyectos, se encarga de la administración de los equipos remotos de trabajo. Uno de los mayores problemas que se presentan es la capacidad de los empleados de aprovecharse del mal sistema para no realizar su trabajo
 
-**Entrevista N°2**
+**Entrevista N°2: Shirley Alva**
 
 - Sexo: femenino
 - Edad: 17
@@ -519,9 +521,7 @@ Cynthia, una economista que trabaja en HMY Perú como jefe de oficina técnica d
 
 Shirley Alva, una estudiante de último año de secundaria que reside en Perú, menciona que esfuerza por mantener una rutina de estudio, disponiendo de un espacio dedicado en su habitación para evitar distracciones y además utiliza diferentes métodos de estudio según el tipo de materia. Para recordar sus compromisos, emplea tanto una agenda física como recordatorios en su celular, aunque admite que a veces olvida algunas tareas cuando está bajo presión o con muchas responsabilidades acumuladas. Por lo que considera que una aplicación de gestión de tareas con un valor agregado sería de gran ayuda para organizar mejor su tiempo y compromisos, lo cual podría contribuir a mejorar su desempeño académico.
 
-<https://drive.google.com/file/d/1wwAzfiR2TIz7qCaFCccJz6yL_Xm3nwHK/view?usp=sharing>
-
-**Entrevista N°3**
+**Entrevista N°3: Gregoria Sinche**
 
 - Sexo: femenino
 - Edad: 54
@@ -530,27 +530,33 @@ Shirley Alva, una estudiante de último año de secundaria que reside en Perú, 
 
 Gregoria Sinche, una florista con más de 30 años de experiencia en la industria, trabaja en un emprendimiento especializado en la creación y distribución de arreglos florales para eventos. Su objetivo es mantener un servicio de alta calidad y mejorar la eficiencia para ser más competitivos. En el lugar donde trabajan utilizan la herramienta Trello para la gestión equipos, sin embargo, menciona que a veces experimentan problemas de saturación y organización, especialmente durante períodos de alta demanda. Por ello, ella considera que una aplicación de gestión del tiempo sin tantos inconvenientes sería beneficiosa para mejorar la eficiencia de su trabajo y así le permita disfrutar de más tiempo libre sin sacrificar la calidad del servicio.
 
-<https://drive.google.com/file/d/14LLlqWbOOvm42irRtPtDFCRcibesKQrL/view?usp=sharing>
-
-**Entrevista N°4**
+**Entrevista N°4: Katy Ramírez**
 
 - Sexo: femenino
 - Edad: 22
 - Momento en que inicia la entrevista: 0:13
 - Duración: 3:22
 
-Katy Ramírez, menciona que se esfuerza por mantener un horario de estudio, dedicando tiempo específico para clases y actividades no relacionadas con ello como el deporte, el cual ella considera que es fundamental para su bienestar general. 
+Katy Ramírez nos menciona que se esfuerza por mantener un horario de estudio, dedicando tiempo específico para clases y actividades no relacionadas con ello como el deporte, el cual ella considera que es fundamental para su bienestar general. 
 
 Como estudiante universitaria menciona que tiende a veces olvidar sus deberes por lo que una aplicación de gestión de tareas y tiempo le vendría de maravilla para así poder mejorar su rendimiento académico 
 
-<https://drive.google.com/file/d/1Nw-e2RHArEGmzRQC-UrXqqzvZxaQ8EC9/view?usp=sharing>
-
-**Entrevista N°5**
+**Entrevista N°5: Fabian Reyes**
 
 - Sexo: Masculino
 - Edad: 19
 - Momento en que inicia la entrevista: 0:06
 - Duración: 4.50
+
+
+**Entrevista N°6: Franccesco Nevada**
+
+- Sexo: Masculino
+- Edad: 16
+- Momento en que inica la entrevista: 
+- Duración: 
+
+Franccesco Nevada es un estudiante que está cursando el 5to de secundaria. Nos cuenta que, en general, siempre le ha ido bien en sus estudios y que no suele tener problemas en su organización. Sin embargo, en semanas donde pueden dejar varias actividades o tareas, puede llegar a tener una experiencia abrumadora.
 
 1. ### <a name="_toc165445767"></a>Análisis de Entrevistas
 Las entrevistas realizadas revelaron los diferentes puntos de vista de las personas sobre el trabajo a distancia. Entre los principales problemas, podemos destacar:
@@ -1117,7 +1123,7 @@ En esta seccion empieza todo el Desarrollo de la aplicacion planificamos todas l
 
 
 1. ### <a name="_toc165445812"></a>Source Code Managment
-Repositorio de Github: <https://github.com/WX54-workflow/landing-page> 
+Repositorio de Github: <https://github.com/TASK-MANAGEMENT64/Task-Management/tree/master> 
 
 - **Implementación de Gitflow**
 
@@ -1261,44 +1267,65 @@ Para desplegar nuestra landing page utilizamos GitHub Pages. A continuación, me
 
   Para ello, accederemos a la página de GitHub de nuestra organización y crearemos un nuevo repositorio. El nombre del repositorio debe ser el mismo que el nombre de nuestra landing page.
 
+<img src="assets/CapRepo1.png">
+
 - Subiremos el código fuente de nuestra página de destino al repositorio.
 
   El código fuente de nuestra landing page puede ser un archivo HTML, CSS o JavaScript, o una combinación de estos. Podemos subir el código fuente al repositorio de varias maneras, como mediante la interfaz web de GitHub, la línea de comandos o un cliente de Git.
 
-
+<img src="assets/CapRepo2.png">
+<img src="assets/CapRepo3.png">
 
 - Visualización de nuestra Página subida a través de GitHub Pages 
 
 Si hemos seguido bien los pasos anteriores, ya podremos visualizar la nuestra página web
-
+<img src="assets/CapRepo4.png">
 
 1. ## <a name="_toc165445815"></a>Landing Page, Services & Applications Implementation
 ### <a name="_toc165445816"></a>Aca planificamos todos los sprint del software a desarrollar.
 1. ### Sprint 1
    1. #### *Sprint Planning 1*
-####
-1. #### ***Objetivo:** Crear una landing page funcional y atractiva para Nuestro servicio llamado Task Management*
+
+|Sprint#|Sprint 1|
+| - | - |
+| Sprint Planning Background | |
+| Date | 8 de abril del 2024 |
+| Time | 16:00 (GMT-5) |
+| Location | Discord y Whatsapp |
+| Prepared By | Task Management |
+| Attendes (to planning meeting) | Todos los miembros del grupo Task Management |
+| Sprint 1 - Review Summary | Dado que es el primer sprint, no hay ningún review summary del sprint anterior |
+| Sprint 1 - Retrospective Summary | En este sprint se planea desarrollar el landing page utilizando los conocimientos de HTML, CSS y JS que se adquirieron en curso de IHC y Tecnologías Móviles |
+| Sprint Goal & User Stories | |
+| Sprint 1 Velocity | 8 |
+| Sum of Story Points | 8 |
+***Objetivo:** Crear una landing page funcional y atractiva para Nuestro servicio llamado Task Management*
    ####
-1. #### *Duración: 4 semana (5 días hábiles)*
-#### *Equipo: Task Management*
-#### ***Desarrollador front-end***
-#### ***-**Ernesto*
-#### ***-**Renzo*
-#### *-Marcelo*
-#### *-Lorenzo*
-#### *-Kenyi*
-#### ***Diseñador gráfico***
-#### ***-**Marcelo*
-#### ***Redactor de contenido***
-#### ***-**Todos los integrantes*
-#### ***Scrum Master (**no contamos con un Scrum Master por lo tanto cada uno un developer independiente con conocimientos en scrum)*
-#### ***Herramientas:***
-#### *-Herramienta de gestión de proyectos (Jira)*
-1. #### *-Software de diseño (Figma.)*
-#### *-Editor de texto (Visual Studio Code.)*
+**Duración:** 4 semana (5 días hábiles)
+**Equipo:** Task Management
+***Desarrollador front-end***
+- Ernesto
+- Renzo
+- Marcelo
+- Lorenzo
+- Kenyi
+***Diseñador gráfico***
+- Marcelo
+***Redactor de contenido***
+- Ernesto
+- Renzo
+- Marcelo
+- Lorenzo
+- Kenyi
+***Scrum Master:*** No contamos con un Scrum Master por lo tanto cada uno un developer independiente con conocimientos en scrum
+***Herramientas:***
+***Herramienta de gestión de proyectos:*** Jira
+***Software de diseño:*** Figma
+***Editor de texto:*** Visual Studio Code
 1. #### *Sprint Backlog 1*
+Enlace para visualizar el trello: <https://trello.com/invite/b/NSI508KA/ATTI572f9b1cc1a34816bfc6d47525e19018EFCDD3FC/os-sprint-backlog-1>
 
-
+<img src="assets/SB1.png">
 
 
 |Sprint#|Sprint 1||||||
@@ -1342,33 +1369,37 @@ Herramientas de Testing:
 
 -Dispositivos móviles simuladores o físicos
 
-Enlace del repositorio de Github donde se encuentran los acceptance tests: [https://github.com/SN-Marcelo/Acceptance-Tests-Task Management.git](https://github.com/SN-Marcelo/Acceptance-Tests-Workline.git)
+Enlace del repositorio de Github donde se encuentran los acceptance tests: <https://github.com/TASK-MANAGEMENT64/Task-Management/tree/release>
 
 1. #### *Execution Evidence for Sprint Review*
 ####
 ####
-#### *Luego de realizar el sprint este seria el resultado luego de completar el sprit n1 que fue el  de la creacion de la landing page.*
-####
+Luego de realizar el sprint este seria el resultado luego de completar el sprit n1 que fue el  de la creacion de la landing page.
+<img src="assets/CapRepo4.png">
+
 1. #### *Services Documentation Evidence for Sprint Review*
 ####
-1. #### *Software Deployment Evidence for Sprint Review*
 
-####
-1. #### *Team Collaboration Insights*
+1. #### *Software Deployment Evidence for Sprint Review*
 
 |Repository|Branch|Commit<br>Message|Commit<br>MessageBody|Committed<br>on (Date)|Committed<br>delegate|
 | - | - | - | - | - | - |
-||Master|Firstcommit||||
-||Develop|Feat:<br>Project settings|Entrar al servidor|20 de marzo de 2024||
-||Feature/bs-user|Feat:<br>User register|<p>Campos de llenado</p><p>para el registro.</p>|20 de marzo de 2024||
-||Feature/bs-user|Feat:User<br>Register<br>Finished|Copiar información del registro a la base de datos|20 de marzo de 2024||
-||Feature/bs-user|Feat:<br>User Controller|Inicio sesión de usuario con credenciales|20 de marzo de 2024||
-||Feature/bs-cases|Feat:<br>Cases Controller|<p>Administra la base</p><p>de datos de los</p><p>usuarios nuevos.</p>|20 de marzo de 2024||
+|updated-landing-page|Master|Feat|Firstcommit|20 de marzo de 2024|Lorenzo|
+|updated-landing-page|Develop|Feat:<br>Project settings|Entrar al servidor|20 de marzo de 2024|Marcelo|
+|updated-landing-page|Feature/bs-user|Feat:<br>User register|<p>Campos de llenado</p><p>para el registro.</p>|20 de marzo de 2024|Javier|
+|updated-landing-page|Feature/bs-user|Feat:User<br>Register<br>Finished|Copiar información del registro a la base de datos|20 de marzo de 2024|Renzo|
+|updated-landing-page|Feature/bs-user|Feat:<br>User Controller|Inicio sesión de usuario con credenciales|20 de marzo de 2024|Ernesto|
+|updated-landing-page|Feature/bs-cases|Feat:<br>Cases Controller|<p>Administra la base</p><p>de datos de los</p><p>usuarios nuevos.</p>|20 de marzo de 2024|Lorenzo|
 
+
+1. #### *Team Collaboration Insights*
+Esta sección se incluyen los team collaboration insights. Se incluirán imágenes de cómo se distribuyó el desarrollo del trabajo en esta entrega
+
+<img src="assets/Insights.png">
 
 
 # <a name="_toc165445817"></a>Anexos
-Repositorio de GitHub: <https://github.com/WX54-workflow> 
+Repositorio de GitHub: <https://github.com/TASK-MANAGEMENT64/Task-Management/tree/master> 
 
 
 
@@ -1401,6 +1432,3 @@ Lopez, M. (2020). Estudios: Los principales desafíos del teletrabajo. <https://
 Pisani, A. y Tomasina, F. (2022). Pros y contras del teletrabajo en la salud física y mental de la población general trabajadora: una revisión narrativa exploratoria. *Archivos de prevención de riesgos laborales*, *25*(2), 147-161. <https://dx.doi.org/10.12961/aprl.2022.25.02.07> 
 
 Santillan, W. (2020). El teletrabajo en el COVID-19. *CienciAmérica: Revista de divulgación científica de la Universidad Tecnológica Indoamérica*, *9*(2), 65-76. <https://dialnet.unirioja.es/servlet/articulo?codigo=7746439> 
-
-
-[def]: assets/UPC_logo_transparente (1).pn
