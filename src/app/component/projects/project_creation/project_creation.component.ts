@@ -1,40 +1,74 @@
 import { Component } from '@angular/core';
-import {MatCardModule} from '@angular/material/card';
+import { MatCardModule } from '@angular/material/card';
 
 //Inputs
-import {takeUntilDestroyed} from '@angular/core/rxjs-interop';
-import {FormGroup, FormControl, Validators, FormsModule, ReactiveFormsModule} from '@angular/forms';
-import {MatInputModule} from '@angular/material/input';
-import {MatFormFieldModule} from '@angular/material/form-field';
-import {merge} from 'rxjs';
-import {MatButton} from "@angular/material/button";
-import {Project_Validations} from "../../../utils/project_validations";
-import {MatDatepickerToggle, MatDateRangeInput, MatDateRangePicker} from "@angular/material/datepicker";
+import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
+import {
+  FormGroup,
+  FormControl,
+  Validators,
+  FormsModule,
+  ReactiveFormsModule,
+} from '@angular/forms';
+import { MatInputModule } from '@angular/material/input';
+import { MatFormFieldModule } from '@angular/material/form-field';
+import { merge } from 'rxjs';
+import { MatButton } from '@angular/material/button';
+import { Project_Validations } from '../../../utils/project_validations';
+import {
+  MatDatepickerToggle,
+  MatDateRangeInput,
+  MatDateRangePicker,
+} from '@angular/material/datepicker';
 
 //Calendar
-import {JsonPipe} from '@angular/common';
-import {MatDatepickerModule} from '@angular/material/datepicker';
-import {provideNativeDateAdapter} from '@angular/material/core';
+import { JsonPipe } from '@angular/common';
+import { MatDatepickerModule } from '@angular/material/datepicker';
+import { provideNativeDateAdapter } from '@angular/material/core';
 
 //Dialog
-import {MatDialog, MatDialogActions, MatDialogClose, MatDialogContent, MatDialogTitle,} from '@angular/material/dialog';
-import {MatButtonModule} from '@angular/material/button';
-import {RouterLink, RouterLinkActive} from "@angular/router";
+import {
+  MatDialog,
+  MatDialogActions,
+  MatDialogClose,
+  MatDialogContent,
+  MatDialogTitle,
+} from '@angular/material/dialog';
+import { MatButtonModule } from '@angular/material/button';
+import { RouterLink, RouterLinkActive } from '@angular/router';
+import { TasksComponent } from '../../tasks/tasks.component';
+import { IconComponent } from '../../tasks/icon/icon.component';
 
 @Component({
   selector: 'app-project-creation',
   standalone: true,
-  imports: [MatCardModule, MatFormFieldModule, MatInputModule, FormsModule, ReactiveFormsModule,
-    MatButton, MatDateRangeInput, MatDatepickerToggle, MatDateRangePicker, MatDatepickerModule,
-    FormsModule, ReactiveFormsModule, JsonPipe, MatButtonModule ],
+  imports: [
+    MatCardModule,
+    MatFormFieldModule,
+    MatInputModule,
+    FormsModule,
+    ReactiveFormsModule,
+    MatButton,
+    MatDateRangeInput,
+    MatDatepickerToggle,
+    MatDateRangePicker,
+    MatDatepickerModule,
+    FormsModule,
+    ReactiveFormsModule,
+    JsonPipe,
+    MatButtonModule,
+    TasksComponent,
+    IconComponent,
+  ],
   providers: [provideNativeDateAdapter()],
   templateUrl: './project_creation.component.html',
-  styleUrl: './project_creation.component.css'
+  styleUrl: './project_creation.component.css',
 })
-
-
 export class ProjectCreationComponent {
-  project_name = new FormControl('', [Validators.required, Project_Validations.invalid_name]);
+  project_name = new FormControl('', [
+    Validators.required,
+    Project_Validations.invalid_name,
+  ]);
 
   errorMessage = '';
 
@@ -54,8 +88,7 @@ export class ProjectCreationComponent {
       this.errorMessage = 'You must enter a value';
     } else if (this.project_name.hasError('name')) {
       this.errorMessage = 'Invalid Name';
-    }
-    else {
+    } else {
       this.errorMessage = '';
     }
   }
@@ -64,13 +97,20 @@ export class ProjectCreationComponent {
   openDialog() {
     this.dialog.open(ProjectCreateDialog);
   }
-
 }
 
 @Component({
   selector: 'create_project.dialog',
   templateUrl: 'dialogs/create_project_dialog.html',
   standalone: true,
-  imports: [MatDialogTitle, MatDialogContent, MatDialogActions, MatDialogClose, MatButtonModule, RouterLink, RouterLinkActive],
+  imports: [
+    MatDialogTitle,
+    MatDialogContent,
+    MatDialogActions,
+    MatDialogClose,
+    MatButtonModule,
+    RouterLink,
+    RouterLinkActive,
+  ],
 })
 export class ProjectCreateDialog {}

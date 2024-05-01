@@ -1,55 +1,65 @@
-.mat-field{
+.mat-field {
   margin-right: 10px;
 }
 
-table{
+table {
   display: inline-block;
 }
 
+.task-title {
+  max-width: fit-content;
+  margin-inline: auto;
+  margin-top: 40px;
+}
 
-.card{
+.icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.card {
   width: 480px;
   text-align: center;
   margin-left: 500px;
   margin-top: 100px;
 }
 
-.send{
-  background-color: #00BF63;
+.send {
+  background-color: #00bf63;
   color: white;
 }
 
 @media (max-width: 768px) {
-
-  .title{
+  .title {
     font-size: 20px;
   }
 
-  .subtitle{
+  .subtitle {
     font-size: 15px;
   }
 
-  .mat-field{
+  .mat-field {
     margin-right: 5px;
     font-size: 12px;
     width: 300px;
   }
 
-  table{
+  table {
     display: inline-grid;
   }
 
-
-  .card{
+  .card {
     width: 330px;
     text-align: center;
     margin-left: 30px;
     margin-top: 100px;
   }
 
-  .send{
-    background-color: #00BF63;
+  .send {
+    background-color: #00bf63;
     color: white;
   }
-
 }
