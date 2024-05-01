@@ -1,0 +1,30 @@
+.card{
+  text-align: center;
+}
+
+form{
+  width: 480px;
+  margin-left: 500px;
+  margin-top: 100px;
+}
+
+.main-button{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.mt-2{
+  margin-top: 20px;
+}
+
+.input-label{
+  text-align: left;
+}
+
+.w-full{
+  width: 300px;
+}
+
+.field{
+  margin-bottom: 20px;
+}

@@ -1,0 +1,44 @@
+<mat-toolbar>
+  <button mat-icon-button (click)="drawer.toggle()" aria-label="List icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>Task Management</span>
+</mat-toolbar>
+
+
+<mat-drawer-container class="container" autosize>
+  <mat-drawer #drawer class="sidenav" mode="side">
+
+    <mat-list>
+      <mat-list-item>
+        <button mat-button class="sidenav-button" routerLink="/project_creation" routerLinkActive="active"
+                ariaCurrentWhenActive="page">Projects</button>
+      </mat-list-item>
+      <mat-divider></mat-divider>
+      <mat-list-item>
+        <button mat-button class="sidenav-button" routerLink="/calendar" routerLinkActive="active"
+                ariaCurrentWhenActive="page">Calendar</button>
+      </mat-list-item>
+      <mat-divider></mat-divider>
+      <mat-list-item>
+        <button mat-button class="sidenav-button">Friends</button>
+      </mat-list-item>
+      <mat-divider></mat-divider>
+      <mat-list-item>
+        <button mat-button class="sidenav-button">Configuration</button>
+      </mat-list-item>
+      <mat-divider></mat-divider>
+      <mat-list-item>
+        <button mat-button class="sidenav-button" routerLink="/log_in" routerLinkActive="active"
+                ariaCurrentWhenActive="page">Sign In</button>
+      </mat-list-item>
+      <mat-divider></mat-divider>
+    </mat-list>
+
+  </mat-drawer>
+
+  <div class="content" aria-label="Router View">
+    <router-outlet></router-outlet>
+  </div>
+</mat-drawer-container>
+
