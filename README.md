@@ -1066,10 +1066,9 @@ En esta seccion va todo lo relacionado al diseño de la aplicacion web como wire
 1. ### <a name="_toc165445796"></a>Web Applications Wireframes
 
 
-<https://www.figma.com/file/h97kRAmGMhvd20Z52PZrCv/Untitledtype=design&node-id=0%3A1&mode=design&t=zOC4On9dH8elcnmL-1>
+Enlace para ingresar a los wireframes: <https://www.figma.com/file/Ne7GvFCDwkI6PhzxTo1jOz/Task-Management?type=design&node-id=0%3A1&mode=design&t=DYtqgUprfgIQXBKQ-1>
 
 <img src="assets/WA-WF1.png">
-<img src="assets/WA-WF2.png">
 
 1. ### <a name="_toc165445797"></a>Web Applications Wireflow Diagrams
 
@@ -1077,7 +1076,10 @@ En esta seccion va todo lo relacionado al diseño de la aplicacion web como wire
 1. ### <a name="_toc165445798"></a>Web Applications Mock-ups
 
 
-<https://www.figma.com/file/7r39chYWXl2yRBHeKq33Th/Untitled?type=design&node-id=0-1&mode=design>
+Enlace para ingresar a los mockups: <https://www.figma.com/file/Ne7GvFCDwkI6PhzxTo1jOz/Task-Management?type=design&node-id=0%3A1&mode=design&t=DYtqgUprfgIQXBKQ-1>
+
+<img src="assets/WA-MU.png">
+
 1. ### <a name="_toc165445799"></a>Web Applications User Flow Diagrams
 
 1. ## <a name="_toc165445800"></a>Web Applications Prototyping
