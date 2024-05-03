@@ -1142,7 +1142,7 @@ Repositorio de Github: <https://github.com/TASK-MANAGEMENT64/Task-Management/tre
 
   Nuestro equipo ha decidido trabajar con la herramienta de control de versiones de Git para implementar GitFlow, un flujo de trabajos eficiente y sofisticado. Tomamos como base el modelo del artículo “A successful Git branching model”, diseñado en el 2010 por Vicent Driessen. Elegimos este modelo debido al gran número de detalles ofrecidos por no solo por las imágenes, sino también por la descripción. Esta es la estructura básica del modelo:
 
-<img src="assets/Gitflow.png">
+<img src="assets/GitFlow.png">
 
 - **Master Branch**
 
