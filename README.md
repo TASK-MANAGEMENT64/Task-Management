@@ -1072,6 +1072,12 @@ Enlace para ingresar a los wireframes: <https://www.figma.com/file/Ne7GvFCDwkI6P
 
 1. ### <a name="_toc165445797"></a>Web Applications Wireflow Diagrams
 
+<img src="assets/WF1.png">
+<img src="assets/WF2.png">
+<img src="assets/WF3.png">
+<img src="assets/WF4.png">
+<img src="assets/WF5.png">
+<img src="assets/WF6.png">
 
 1. ### <a name="_toc165445798"></a>Web Applications Mock-ups
 
