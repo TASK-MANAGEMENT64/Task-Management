@@ -1082,7 +1082,18 @@ Enlace para ingresar a los mockups: <https://www.figma.com/file/Ne7GvFCDwkI6Phzx
 
 1. ### <a name="_toc165445799"></a>Web Applications User Flow Diagrams
 
+<img src="assets/USF1.png">
+<img src="assets/USF2.png">
+<img src="assets/USF3.png">
+<img src="assets/USF4.png">
+<img src="assets/USF5.png">
+<img src="assets/USF6.png">
+<img src="assets/USF7.png">
+<img src="assets/USF8.png">
+
 1. ## <a name="_toc165445800"></a>Web Applications Prototyping
+
+Enlace al video del prototipo de la aplicación: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217241_upc_edu_pe/EZfip85rvpdArLT5UBLqJekBmAjJ2dZe2IHugmg0y2wZmg?e=4503lP>
 
 1. ## <a name="_toc165445801"></a>Domain-Driven Software
 Es una manera conceptual de ver como funciona toda arquitectura del programa a desarrollar y como interactua con cada segemento objetivo 
