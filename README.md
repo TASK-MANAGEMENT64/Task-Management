@@ -1496,6 +1496,8 @@ Herramientas de Testing:
 ####
 En esta entrega, no se realizó ningún deployment, por lo que no se muestra ninguna evidencia
 
+Enlace para ingresar a la aplicación web: <https://github.com/TASK-MANAGEMENT64/Task-Management/tree/release#:~:text=sw71%2Dopensource.web.app/project_creation>
+
 1. #### *Services Documentation Evidence for Sprint Review*
 ####
 En esta segunda entrega se desarrolló solo el frontend de la aplicación, por lo que no se realizó ningún uso de ningún web service
