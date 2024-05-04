@@ -1,7 +1,7 @@
 <mat-card class="card">
   <mat-card-header>
-    <mat-card-title class="title">Register</mat-card-title>
-    <mat-card-subtitle class="subtitle">Enter your credentials</mat-card-subtitle>
+    <mat-card-title class="title">Configuration</mat-card-title>
+    <mat-card-subtitle class="subtitle">Change your credentials</mat-card-subtitle>
   </mat-card-header>
   <mat-card-actions>
     <form>
@@ -29,22 +29,11 @@
           <div *ngIf="password.errors?.['required']">Password is required.</div>
         </small>
       </mat-form-field>
-      <br>
-      <mat-form-field class="mat-field">
-        <mat-label>Confirm Password</mat-label>
-        <input matInput aria-label="Confirm Password input" placeholder="pass123"/>
-        <small
-          *ngIf="password.invalid && (password.dirty || password.touched)"
-          class="block p-error"
-        >
-          <div *ngIf="password.errors?.['required']">Password is required.</div>
-        </small>
-      </mat-form-field>
 
-      <br/><br/>
+      <br/>
 
-      <button mat-flat-button color="primary"> Register </button>
-      <div class="mt-2">Already a member? <a routerLink="/log_in">Login</a></div>
+      <button mat-flat-button color="primary"> Safe </button>
     </form>
   </mat-card-actions>
 </mat-card>
+

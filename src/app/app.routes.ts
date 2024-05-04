@@ -10,6 +10,8 @@ import {RegisterComponent} from "./component/registro/registro.component";
 
 import {CalendarComponent} from "./component/calendar/calendar.component";
 
+import {ConfigurationComponent} from "./component/configuration/configuration.component";
+
 export const routes: Routes = [
   { path: '', redirectTo: '/project_menu', pathMatch: 'full' },
 
@@ -21,5 +23,7 @@ export const routes: Routes = [
   { path: 'log_in', component: LoginComponent},
   { path: 'register', component: RegisterComponent},
 
-  { path: 'calendar', component: CalendarComponent }
+  { path: 'calendar', component: CalendarComponent },
+
+  {path: 'configuration', component: ConfigurationComponent}
 ];

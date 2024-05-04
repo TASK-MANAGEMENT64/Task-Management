@@ -1,34 +1,24 @@
 import { Component } from '@angular/core';
-import {
-  FormBuilder,
-  FormsModule,
-  ReactiveFormsModule,
-  Validators,
-} from '@angular/forms';
+import { FormBuilder, FormsModule, ReactiveFormsModule, Validators,} from '@angular/forms';
 import { Router, RouterLink } from '@angular/router';
-import { MessageService } from 'primeng/api';
-import { CardModule } from 'primeng/card';
-import { InputTextModule } from 'primeng/inputtext';
-import { ButtonModule } from 'primeng/button';
-import { NgIf } from '@angular/common';
-// import 'primeng/resources/themes/saga-blue/theme.css';
-// import 'primeng/resources/primeng.min.css';
-// import "primeicons/primeicons.css";
+import {MatCardModule} from "@angular/material/card";
+import { MatInputModule } from '@angular/material/input';
+import { MatButton } from '@angular/material/button';
+import {NgIf} from "@angular/common";
 
 @Component({
   selector: 'app-login',
   templateUrl: './login.component.html',
   standalone: true,
   imports: [
-    CardModule,
-    InputTextModule,
     FormsModule,
-    ButtonModule,
     RouterLink,
-    NgIf,
     ReactiveFormsModule,
+    MatCardModule,
+    MatInputModule,
+    MatButton,
+    NgIf,
   ],
-  providers: [MessageService],
   styleUrls: ['./login.component.css'],
 })
 export class LoginComponent {
@@ -40,7 +30,6 @@ export class LoginComponent {
   constructor(
     private fb: FormBuilder,
     private router: Router,
-    private msgService: MessageService
   ) {}
 
   get email() {

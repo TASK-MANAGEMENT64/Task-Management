@@ -1,48 +1,35 @@
-<form [formGroup]="loginForm">
-  <p-card header="Login" [style]="{ width: '360px' }">
-    <div class="field">
-      <label class="input-label">Email</label>
-      <br>
-      <input
-        type="text"
-        pInputText
-        formControlName="email"
-        class="w-full"
-        name="email"
-        placeholder="Type your email"
-      />
+<mat-card class="card">
+  <mat-card-header>
+    <mat-card-title class="title">Login</mat-card-title>
+    <mat-card-subtitle class="subtitle">Enter your credentials</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-actions>
+    <form>
+      <mat-form-field class="mat-field">
+        <mat-label>Email</mat-label>
+        <input matInput aria-label="Email input" placeholder="example@gmail.com" [formControl]="email" required/>
+      </mat-form-field>
       <small *ngIf="email.invalid && (email.dirty || email.touched)" class="block p-error">
         <div *ngIf="email.errors?.['required']">Email is required.</div>
-    <div *ngIf="email.errors?.['email']">Email should be valid</div>
-    </small>
-    </div>
-    <div class="field">
-      <label class="input-label">Password</label>
+        <div *ngIf="email.errors?.['email']">Email should be valid</div>
+      </small>
       <br>
-      <input
-        type="password"
-        pInputText
-        formControlName="password"
-        class="w-full"
-        name="password"
-        placeholder="Type your password"
-      />
-      <small
-        *ngIf="password.invalid && (password.dirty || password.touched)"
-        class="block p-error"
-      >
-        <div *ngIf="password.errors?.['required']">Password is required.</div>
-    </small>
-    </div>
-    <div class="main-button">
-      <p-button
-        label="SIGN IN"
-        styleClass="w-full"
-        [disabled]="loginForm.invalid"
-        type="submit"
-      ></p-button>
-    </div>
 
-    <div class="mt-2">Not a member? <a routerLink="/register">Register</a></div>
-  </p-card>
-</form>
+      <mat-form-field class="mat-field">
+        <mat-label>Password</mat-label>
+        <input matInput aria-label="Password input" placeholder="pass123"/>
+        <small
+          *ngIf="password.invalid && (password.dirty || password.touched)"
+          class="block p-error"
+        >
+          <div *ngIf="password.errors?.['required']">Password is required.</div>
+        </small>
+      </mat-form-field>
+
+      <br/><br/>
+
+      <button mat-flat-button color="primary"> Log In </button>
+      <div class="mt-2">Not a member? <a routerLink="/register">Register</a></div>
+    </form>
+  </mat-card-actions>
+</mat-card>

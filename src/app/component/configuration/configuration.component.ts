@@ -7,8 +7,7 @@ import { MatButton } from '@angular/material/button';
 import {NgIf} from "@angular/common";
 
 @Component({
-  selector: 'app-register',
-  templateUrl: './registro.component.html',
+  selector: 'app-configuration',
   standalone: true,
   imports: [
     ReactiveFormsModule,
@@ -19,10 +18,10 @@ import {NgIf} from "@angular/common";
     RouterLink,
     FormsModule
   ],
-  styleUrls: ['./registro.component.css']
+  templateUrl: './configuration.component.html',
+  styleUrl: './configuration.component.css'
 })
-export class RegisterComponent {
-
+export class ConfigurationComponent {
   registerForm = this.fb.group({
     fullName: ['', [Validators.required, Validators.pattern(/^[a-zA-Z]+(?: [a-zA-Z]+)*$/)]],
     email: ['', [Validators.required, Validators.email]],
@@ -50,5 +49,4 @@ export class RegisterComponent {
   get confirmPassword() {
     return this.registerForm.controls['confirmPassword'];
   }
-
 }
